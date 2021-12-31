@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\bin\Debug\net6.0\AjusteDeSalario.exe
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\bin\Debug\net6.0\AjusteDeSalario.deps.json
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\bin\Debug\net6.0\AjusteDeSalario.runtimeconfig.json
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\bin\Debug\net6.0\AjusteDeSalario.dll
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\bin\Debug\net6.0\ref\AjusteDeSalario.dll
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\bin\Debug\net6.0\AjusteDeSalario.pdb
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\obj\Debug\net6.0\AjusteDeSalario.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\obj\Debug\net6.0\AjusteDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\obj\Debug\net6.0\AjusteDeSalario.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\obj\Debug\net6.0\AjusteDeSalario.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\obj\Debug\net6.0\AjusteDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\obj\Debug\net6.0\AjusteDeSalario.dll
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\obj\Debug\net6.0\ref\AjusteDeSalario.dll
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\obj\Debug\net6.0\AjusteDeSalario.pdb
+C:\Users\ASUS\Desktop\C\AjusteDeSalario\AjusteDeSalario\obj\Debug\net6.0\AjusteDeSalario.genruntimeconfig.cache

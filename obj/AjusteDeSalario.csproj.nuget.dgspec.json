@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\ASUS\\Desktop\\C\\AjusteDeSalario\\AjusteDeSalario\\AjusteDeSalario.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\ASUS\\Desktop\\C\\AjusteDeSalario\\AjusteDeSalario\\AjusteDeSalario.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ASUS\\Desktop\\C\\AjusteDeSalario\\AjusteDeSalario\\AjusteDeSalario.csproj",
+        "projectName": "AjusteDeSalario",
+        "projectPath": "c:\\Users\\ASUS\\Desktop\\C\\AjusteDeSalario\\AjusteDeSalario\\AjusteDeSalario.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ASUS\\Desktop\\C\\AjusteDeSalario\\AjusteDeSalario\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
